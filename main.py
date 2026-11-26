@@ -40,10 +40,15 @@
 # grandiosity of the opening (C5) so the fall in sentence two is bigger,
 # and "great fortune" is the more classic cookie phrasing. Same word
 # count, same single breath.
+#
+# Revision 2 (final): "The exchange" -> "Your exchange". Makes the loss
+# personal to the trader holding the cookie (C1/C2: joke lands on the
+# trader, warm not smug) and the your/yours echo makes the last word
+# "yours" hit harder (C4). Final line: 11 words, single breath.
 
 import os
 
-LINE = "You will soon receive great fortune. The exchange already received yours."
+LINE = "You will soon receive great fortune. Your exchange already received yours."
 
 
 def main() -> None:
