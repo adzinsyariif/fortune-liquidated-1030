@@ -35,10 +35,15 @@
 #     Rueful, warm, single breath, surprising last word "yours".
 #
 # Winner picked: D. Revisions below tighten it further.
+#
+# Revision 1: "good fortune" -> "great fortune". Heightens the oracular
+# grandiosity of the opening (C5) so the fall in sentence two is bigger,
+# and "great fortune" is the more classic cookie phrasing. Same word
+# count, same single breath.
 
 import os
 
-LINE = "You will soon receive good fortune. The exchange already received yours."
+LINE = "You will soon receive great fortune. The exchange already received yours."
 
 
 def main() -> None:
